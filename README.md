@@ -3,7 +3,7 @@ Data analysis project to test the historical odds and results of UFC matches
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
+* [Contributors](#Contributors)
 
 ## General info
 This project will seem to confirm if underdogs perform unexpectedly. Also, we seek to test if a betting strategy of betting exlusively in underdogs yields a favorable result.
