@@ -15,4 +15,4 @@ Project is created with:
 * Libraries: Pandas, Numpy, Seaborn, DateTime
 	
 ## Contributors
-This project is a collaboration between @jesushzv and @pontuuseraqui
+This project is a collaboration between @jesushzv and @IvanVC21
